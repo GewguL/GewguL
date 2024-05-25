@@ -19,4 +19,4 @@
     </a>
 [https://Weldhappy.Grafana.net] 🍷
 [https://MetaTesty.SquareSpace.com] 🧑🏻‍🏭
-[Ågent@GitHub.dev]
+[Agent@GitHub.dev]
